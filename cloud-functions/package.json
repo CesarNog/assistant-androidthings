@@ -10,7 +10,7 @@
     "url": "git://github.com/Nilhcem/assistant-androidthings.git"
   },
   "dependencies": {
-    "@google-cloud/pubsub": "^0.13.0",
+    "@google-cloud/pubsub": "^0.15.0",
     "basic-auth": "1.1.0"
   }
 }
